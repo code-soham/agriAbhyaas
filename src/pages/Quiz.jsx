@@ -14,7 +14,7 @@ import data from "../data/quiz.json";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import { Button } from "@mui/material";
-import { useParams,useNavigate } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 const drawerWidth = 240;
 function ResponsiveDrawer(props) {
   const navigate = useNavigate();
@@ -25,16 +25,17 @@ function ResponsiveDrawer(props) {
   const [sub, setSub] = React.useState("Circles");
   const [subs, setSubs] = React.useState([]);
   const [bank, setBank] = React.useState([]);
+  const [topicIndex, setTopicIndex] = React.useState(0);
   const handleDrawerToggle = () => {
     setMobileOpen(!mobileOpen);
   };
   useEffect(() => {
-    console.log(subject)
+    console.log(subject);
     if (subject?.id === "english") {
       setSub("Tense");
       setChosen("Tense");
     }
-  },[]);// eslint-disable-line
+  }, []); // eslint-disable-line
   useEffect(() => {
     for (let subject in data) {
       for (let topic in data[subject].topics) {
@@ -61,6 +62,7 @@ function ResponsiveDrawer(props) {
     setBank(questions);
     // console.log(questions);
   }, [chosen, sub]);
+  
   const drawer = (
     <div
       style={{
@@ -69,16 +71,21 @@ function ResponsiveDrawer(props) {
         margin: "0 50px",
       }}
     >
-      <Button sx={{
-        backgroundColor: "#13ae7e",
-        color: "white",
-        fontWeight: "bold",
-        margin:"20px 0",
-      }} onClick={()=>{
-        navigate("/")
-      }} fullWidth
-      variant="contained"
-      >HOME</Button>
+      <Button
+        sx={{
+          backgroundColor: "#13ae7e",
+          color: "white",
+          fontWeight: "bold",
+          margin: "20px 0",
+        }}
+        onClick={() => {
+          navigate("/");
+        }}
+        fullWidth
+        variant="contained"
+      >
+        HOME
+      </Button>
       <Divider />
       <br />
       <Typography gutterBottom variant="body1" color="inherit" noWrap>
@@ -497,6 +504,46 @@ function ResponsiveDrawer(props) {
               </div>
             );
           })}
+        </Box>
+        <Box sx={{
+          margin:'auto',
+          minWidth: "300px",
+          maxWidth: "800px",
+          height:'100px',
+        }}>
+          <Button
+            sx={{
+              textTransform: "none",
+              float: "left",
+              
+            }}
+            disabled={topicIndex === 0 || typeof subs === 'string'}
+            onClick={() => {
+              setTopicIndex((prev) => {
+                setSub(subs[prev-1]);
+                return prev - 1;
+              });
+              console.log(topicIndex);
+            }}
+          >
+            Previous Topic
+          </Button>
+          <Button
+            sx={{
+              textTransform: "none",
+              float: "right",
+            }}
+            disabled={topicIndex === subs.length - 1 || typeof subs === 'string'}
+            onClick={() => {
+              setTopicIndex((prev) => {
+                setSub(subs[prev+1]);
+                return prev + 1;
+              });
+              console.log(topicIndex);
+            }}
+          >
+            Next Topic
+          </Button>
         </Box>
         <Offers />
       </Box>
