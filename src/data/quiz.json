@@ -3,450 +3,560 @@
     "bank": [
       {
         "topic": "Circles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Circles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Circles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Circles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Circles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Circles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Circles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Triangles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Triangles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Triangles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Triangles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Triangles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Triangles",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Polygons",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Polygons",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Parabolas",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "BODMAS",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "BODMAS",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "BODMAS",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "BODMAS",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "BODMAS",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Quadratics",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Quadratics",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Quadratics",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Quadratics",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Quadratics",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Quadratics",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Inequations",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Inequations",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Heights & Distances",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Heights & Distances",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Heights & Distances",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Heights & Distances",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Heights & Distances",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Rotation",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Rotation",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Rotation",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Rotation",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Rotation",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Rotation",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Functions",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Functions",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Numbers",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       }
     ],
     "topics": [
       {
         "title": "Geometry",
         "hasSubTopics": true,
-        "subs": ["Circles", "Triangles", "Polygons", "Parabolas", "Hyperbolas"]
+        "subs": ["Circles", "Triangles", "Polygons", "Parabolas"]
       },
       {
         "title": "Algebra",
@@ -468,66 +578,81 @@
     "bank": [
       {
         "topic": "Tense",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Tense",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Tense",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Tense",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. "
       },
       {
         "topic": "Speech Change",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Speech Change",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Detect Speech",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       },
       {
         "topic": "Detect Speech",
-        "title": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in odio semper, lacinia eros mattis, facilisis libero. Suspendisse potenti.",
         "options": ["option A", "option B", "option C", "option D"],
         "answer": "option A",
+        "choice": null,
         "exp": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. ",
-        "discussion_id": "random_hash_here"
+        "discussion_id": "random_hash_here",
+        "reveal":false
       }
     ],
     "topics": [

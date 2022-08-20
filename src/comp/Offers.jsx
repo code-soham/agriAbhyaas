@@ -13,6 +13,7 @@ export default function Offers() {
     <div
       style={{
         margin: "auto",
+        marginTop:'50px',
         padding: "0 5%",
         backgroundColor: "#fffff4",
       }}
@@ -23,6 +24,7 @@ export default function Offers() {
       <Box
         sx={{
           margin: "20px",
+          marginTop: '0',
           width: "fit-content",
         }}
       >
