@@ -13,3 +13,18 @@
   content: url("https://i.imgur.com/lS4N53d.png") !important;
   z-index: 999;
 }
+#accordion > * {
+  margin: 0 !important;
+  background-color: #fffff4;
+}
+@media (max-width: 768px) {
+  #question_wrapper{
+    flex-wrap: wrap;
+  }
+  #accordion{
+    display: flex;
+    flex-wrap : wrap; 
+    height: fit-content;
+    justify-content: center;
+  }
+}
