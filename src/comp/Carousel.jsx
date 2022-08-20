@@ -97,7 +97,7 @@ export default function Carousel() {
                 justifyContent: "center",
               }}
             >
-              <SubjectCard img={item.img} title={item.title} />
+              <SubjectCard img={item.img} title={item.title} id={item.id} />
             </SwiperSlide>
           ))}
         </Swiper>

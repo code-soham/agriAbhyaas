@@ -14,8 +14,11 @@ import data from "../data/quiz.json";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import { Button } from "@mui/material";
+import { useParams,useNavigate } from "react-router-dom";
 const drawerWidth = 240;
 function ResponsiveDrawer(props) {
+  const navigate = useNavigate();
+  const subject = useParams();
   const { window } = props;
   const [mobileOpen, setMobileOpen] = React.useState(false);
   const [chosen, setChosen] = React.useState("Geometry");
@@ -25,7 +28,13 @@ function ResponsiveDrawer(props) {
   const handleDrawerToggle = () => {
     setMobileOpen(!mobileOpen);
   };
-
+  useEffect(() => {
+    console.log(subject)
+    if (subject?.id === "english") {
+      setSub("Tense");
+      setChosen("Tense");
+    }
+  },[]);// eslint-disable-line
   useEffect(() => {
     for (let subject in data) {
       for (let topic in data[subject].topics) {
@@ -60,7 +69,16 @@ function ResponsiveDrawer(props) {
         margin: "0 50px",
       }}
     >
-      <Toolbar />
+      <Button sx={{
+        backgroundColor: "#13ae7e",
+        color: "white",
+        fontWeight: "bold",
+        margin:"20px 0",
+      }} onClick={()=>{
+        navigate("/")
+      }} fullWidth
+      variant="contained"
+      >HOME</Button>
       <Divider />
       <br />
       <Typography gutterBottom variant="body1" color="inherit" noWrap>

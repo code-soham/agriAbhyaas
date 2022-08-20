@@ -13,7 +13,6 @@ export default function Offers() {
     <div
       style={{
         margin: "auto",
-        marginTop:'50px',
         padding: "0 5%",
         backgroundColor: "#fffff4",
       }}

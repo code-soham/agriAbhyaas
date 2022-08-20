@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <HashRouter>
         <Routes>
-          <Route path="/quiz" element={<Quiz />} />
+          <Route path="/quiz/:id" element={<Quiz />} />
           <Route path="/" element={<Landing />} />
         </Routes>
       </HashRouter>
