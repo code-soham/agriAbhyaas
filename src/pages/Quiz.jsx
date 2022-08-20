@@ -276,6 +276,8 @@ function ResponsiveDrawer(props) {
         <Box
           sx={{
             minHeight: "70vh",
+            maxHeight: "900px",
+            overflow: "auto",
             width: "100%",
             minWidth: "300px",
             maxWidth: "800px",
